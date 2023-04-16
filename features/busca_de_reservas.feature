@@ -1,7 +1,9 @@
 Feature: Busca de reservas
 As a usuário do sistema
-I want ser capaz de realizar uma busca nos anúncios cadastrados
-So that eu possa ter melhores condições de escolher a melhor acomodação para a minha situação
+I want ser capaz de realizar uma busca nos
+anúncios cadastrados
+So that eu possa ter melhores condições de 
+escolher a melhor acomodação para a minha situação
 
 Cenário 1 - Reserva encontrada
 Given estou na página "Home"
